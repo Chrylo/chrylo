@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm a Developer! 👋
 
-<!--
-**Chrylo/chrylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages I argue with
 
-Here are some ideas to get you started:
+*   **Kotlin:** Because life is too short for Java boilerplate
+*   **Java:** Cmd+shift+a -> Convert to Kotlin
+*   **Swift:** Where everything is `Optional` except the need for more RAM while trying to make Xcode work. 📱
+*   **Objective-C:** Yes, I speak the ancient bracket language `[[[[[Legacy Codebase alloc] init] autorelease] retain] forever]`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Areas of Expertise
+
+*   **📱 App Development**
+*   **☁️ Cloud Services**
+*   **🚗 Automotive Systems**
+
+---
+
+``` git commit -m "revert(Age): Add another Birthday" ```
